@@ -36,7 +36,7 @@ export const profileDetails = [
   },
   {
     fullName: "???",
-    bio: "Shruthi is in charge of our Instagram. She is a practising Vegan and cares deeply about sustainability. Follow her small business",
+    bio: "This spot awaits you. Check out our open positions",
 
     website: "https://ecoyaan.com/careers",
     background: "/assets/images/bg-1.jpg",
